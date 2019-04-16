@@ -10,7 +10,7 @@
     "repository": "followmsi/android_vendor",
     "target_path": "vendor/asus",
     "branch": "pie"
-  }
+  },
   {
     "remote": "github",
     "repository": "ResurrectionRemix-devices/device_asus_flo",
